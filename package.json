@@ -1,6 +1,6 @@
 {
     "type": "module",
     "dependencies": {
-        "eslint-plugin-security": "^2.1.0",
+        "eslint-plugin-security": "^2.1.0"
     }
 }
